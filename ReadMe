@@ -1,0 +1,6 @@
+Charles Regan cwr2gb
+Compile with make and execute with ./a.out
+
+Why command uses the evalExp (this is a function that creates the tree from the expression given) and then recursively calls itself to evaluate through the tree.  Because it does this the logic that is printed is not the most user friendly but it is still correct (ex. I KNOW THAT I KNOW THAT I KNOW THAT... followed by the correct logic in the end)
+
+Make file is attached
